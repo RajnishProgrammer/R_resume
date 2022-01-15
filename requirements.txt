@@ -101,7 +101,7 @@ secure-smtplib==0.1.1
 selectorlib==0.16.0
 selenium==4.0.0
 setuptools-scm==6.3.2
-sip==4.19.13
+
 six==1.15.0
 sniffio==1.2.0
 sortedcontainers==2.4.0
